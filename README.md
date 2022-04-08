@@ -19,3 +19,5 @@ Labs Fargate Service
 Labs Service Security Group
 ![Lab Service Security Group](https://user-images.githubusercontent.com/6191308/162502211-a3e0f082-c462-4a72-803b-83c2dfc1edc1.png)
 
+Load Balancer configuration with Route53
+![Route53 LAB config](https://user-images.githubusercontent.com/6191308/162503737-959b6592-2ed6-4027-bf84-36d4924cba98.png)
