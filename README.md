@@ -1,4 +1,4 @@
-# AWS-ALB-Fargate
+# AWS-Cloud-Configuration-Application Load Balancer-Fargate
 Configuration of AWS Fargate service, Application Load Balancer, and Route53
 
 Target Group
