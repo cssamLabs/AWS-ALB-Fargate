@@ -2,22 +2,23 @@
 Configuration of AWS Fargate service, Application Load Balancer, and Route53
 
 Target Group
-![Lab-Fargate-Target-Group](https://user-images.githubusercontent.com/6191308/162500420-4488e87b-11b5-4293-89b9-e140b7e5f4c9.png)
+![Lab-Fargate-Target-Group](https://user-images.githubusercontent.com/6191308/162560828-23148359-7f2b-41e7-a362-eb16958ff400.png)
 
 Aplication Load Balancer
-![lab-cluster-ALB](https://user-images.githubusercontent.com/6191308/162500531-ad4399f5-af8a-4f28-a4cf-9839383682a7.png)
+![lab-cluster-ALB](https://user-images.githubusercontent.com/6191308/162560839-855cd7da-1e70-471d-8e95-8f1a10b3d6d2.png)
 
 Application Load Balancer Security Group
-![Lab-ALB-Security-Group](https://user-images.githubusercontent.com/6191308/162500748-612ba002-f2cc-4cf3-b792-116922ed958c.png)
+![Lab-ALB-Security-Group](https://user-images.githubusercontent.com/6191308/162560846-b0510e36-3e89-49f9-8058-7aa62ac34d32.png)
 
 Lab Cluster
-![Lab-Cluster](https://user-images.githubusercontent.com/6191308/162501199-adba757e-24fe-4500-8c6f-c2cad36a0248.png)
+![Lab-Cluster](https://user-images.githubusercontent.com/6191308/162560869-3026efb8-29de-46a7-8066-68f53b1563c3.png)
 
 Labs Fargate Service
-![Labs - Fargate Service](https://user-images.githubusercontent.com/6191308/162501922-025585e7-3d07-4901-9a57-6fc163cd1f29.png)
+![Labs - Fargate Service](https://user-images.githubusercontent.com/6191308/162560893-3c24aac4-ee89-48b9-9260-9f3a7f5041c3.png)
 
 Labs Service Security Group
-![Lab Service Security Group](https://user-images.githubusercontent.com/6191308/162502211-a3e0f082-c462-4a72-803b-83c2dfc1edc1.png)
+![Lab Service Security Group](https://user-images.githubusercontent.com/6191308/162560906-e5e499ca-b5ed-40a9-9892-eab2b2e4660e.png)
 
 Load Balancer configuration with Route53
-![Route53 LAB config](https://user-images.githubusercontent.com/6191308/162503737-959b6592-2ed6-4027-bf84-36d4924cba98.png)
+![Route53 LAB config](https://user-images.githubusercontent.com/6191308/162560927-6b204cc6-9a03-474e-96a1-834d8f5dae27.png)
+
