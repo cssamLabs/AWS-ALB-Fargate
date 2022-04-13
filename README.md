@@ -36,5 +36,10 @@ Load Balancer configuration with Route53
 First create Hosted Zone. Then added A Record value as the Load Balancer.
 ![hosted-zone-alb-config](https://user-images.githubusercontent.com/6191308/162838943-f903e5bc-0269-457d-a0d1-b4cf033ddf07.png)
 
+Access API endpoints from domain
+
+![Route53 cssamlabs auth login](https://user-images.githubusercontent.com/6191308/163262775-928ab12e-f4ef-431a-b8f3-66b36776695d.png)
+
+![Route53 cssamlabs GetNotes](https://user-images.githubusercontent.com/6191308/163262790-6bb8c01a-2f78-413a-8862-461d803f7df2.png)
 
 
